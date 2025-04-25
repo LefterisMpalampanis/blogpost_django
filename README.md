@@ -1,0 +1,5 @@
+Για να τρέξει το site:
+1. cd blogpost
+2. scripts/activate
+3. cd blogpost
+4. python manage.py runserve
